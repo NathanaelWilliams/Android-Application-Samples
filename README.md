@@ -5,6 +5,6 @@ Two different platforms for dev is AIDE(pro edition) and AndroidIDE
 ## **AIDE**
 >AndroidIDE is an IDE for Android to develop full featured Android apps.<br>
 
-[Go For It](https://github.com/AndroidIDEOfficial/AndroidIDE)<br>
-[Official website](https://m.androidide.com/)  <br>
-[Download in GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)<br>
++ [Go For It](https://github.com/AndroidIDEOfficial/AndroidIDE)<br>
++ [Official website](https://m.androidide.com/)  <br>
++ [Download in GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)<br>
