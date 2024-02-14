@@ -2,7 +2,7 @@
 A number of samples of Android App programs
 Two different platforms for dev is AIDE(pro edition) and AndroidIDE
 
-## **AIDE**
+## **AndroidIDE**
 >AndroidIDE is an IDE for Android to develop full featured Android apps.<br>
 
 + [Go For It](https://github.com/AndroidIDEOfficial/AndroidIDE)<br>
